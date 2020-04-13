@@ -20,6 +20,8 @@ In the project directory, you can run:
 - npm
 
 ### To run the app in development mode
-- `npm start`
-- go to http://localhost:3000/
+- Clone from Github
+- Run `npm i` to install dependencies
+- Run `npm start`
+- Go to http://localhost:3000/
 
