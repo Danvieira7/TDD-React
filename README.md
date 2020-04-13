@@ -21,7 +21,7 @@ In the project directory, you can run:
 
 ### To run the app in development mode
 - Clone from Github
-- Run `npm i` to install dependencies
+- Run `npm i` in the project's folder to install dependencies
 - Run `npm start`
 - Go to http://localhost:3000/
 
